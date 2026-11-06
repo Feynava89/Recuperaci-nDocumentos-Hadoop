@@ -1,0 +1,16 @@
+# Java
+*.class
+proyecto.jar
+
+# Logs
+*.log
+
+# Datos originales
+data/noticias_crudas/
+
+# Resultados generados
+resultados/*
+!resultados/README.md
+
+# Archivos temporales
+*.tmp
