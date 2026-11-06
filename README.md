@@ -28,25 +28,8 @@ El proyecto se compone de seis etapas:
 
 **Estructura del proyecto**
 
-RecuperacionDocumentos-Hadoop/
-│
-├── src/
-│   ├── BolsaPalabras.java
-│   ├── FrecuenciaTerminos.java
-│   ├── IndiceInvertido.java
-│   ├── TFIDF.java
-│   ├── SimilitudCoseno.java
-│   ├── Tokenizer.java
-│   └── Consulta.java
-│
-├── data/
-│   └── README.md
-│
-├── resultados/
-│   └── README.md
-│
-├── .gitignore
-└── README.md
+<img width="286" height="502" alt="image" src="https://github.com/user-attachments/assets/016bf1ec-b496-4b75-bcd5-5ba57a09797f" />
+
 
 **Requisitos**
 
