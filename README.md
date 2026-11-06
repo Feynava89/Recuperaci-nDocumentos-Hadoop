@@ -60,7 +60,7 @@ hdfs dfs -mkdir -p /practica/entrada
 * Copiar los documentos .txt desde el sistema local hacia HDFS:
 hdfs dfs -put /ruta/a/noticias_crudas/*.txt /practica/entrada/
 
-*Verificar los archivos cargados:
+* Verificar los archivos cargados:
 hdfs dfs -ls /practica/entrada
 
 **Ejecución del procesamiento MapReduce**
@@ -89,6 +89,6 @@ hadoop jar proyecto.jar Consulta economia 5
 
 Otros ejemplos:
 
-hadoop jar proyecto.jar Consulta dinero 10
-hadoop jar proyecto.jar Consulta sociedad 15
-hadoop jar proyecto.jar Consulta tecnologia 5
+* hadoop jar proyecto.jar Consulta dinero 10
+* hadoop jar proyecto.jar Consulta sociedad 15
+* hadoop jar proyecto.jar Consulta tecnologia 5
